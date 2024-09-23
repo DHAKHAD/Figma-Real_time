@@ -1,6 +1,7 @@
+![alt text](public/figma.png)
 <div align="center">
   <br />
-  ![alt text](public/figma.png)
+
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
 - Next.js
